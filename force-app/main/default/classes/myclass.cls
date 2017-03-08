@@ -1,3 +1,4 @@
+// Add change to test Travis CI
 public with sharing class myclass {
 	public myclass() {
 
