@@ -1,0 +1,10 @@
+{
+  "Company": "travisci Company",
+  "Country": "US",
+  "LastName": "travisci",
+  "Email": "travis.ci@xxx.com",
+  "Edition": "Developer",
+  "OrgPreferences" : {
+    "S1DesktopEnabled" : true
+  }
+}
